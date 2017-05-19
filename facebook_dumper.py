@@ -4,8 +4,8 @@ import os
 import time
 
 # The ID of your group chat, and your facebook User ID
-group_id = "1626079027649408"
-user_id = "100006542073956"
+group_id = ""
+user_id = ""
 
 # Values used to authenticate you, obtain them from your browser's developer tools. __dyn, fb_dtsg and your HTTP cookie.
 dyn = ""
